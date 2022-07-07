@@ -10,7 +10,6 @@ better.
 Learnt Function Composition through the 
 following Reference:
 
-
 This Calculator has some drawbacks like:
 1. It does not have BODMAS Functionality for
 calculations.
